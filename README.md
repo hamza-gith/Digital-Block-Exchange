@@ -1,1 +1,1 @@
-[![MasterHead](https://newdigital.vercel.app/static/media/header-final.40ec769de9b5578aa247f860a0259ebc.svg)](https://newdigital.vercel.app/)
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/images-9e613.appspot.com/o/Images%2FCapturedigitalblocke.PNG?alt=media&token=04de531e-3ce6-42cd-b134-d134c39be427)](https://newdigital.vercel.app/)
